@@ -1,0 +1,2 @@
+# Trump-Speeches
+BA Assignment
